@@ -3,7 +3,7 @@
 **Token**: 
 
 ```
-https://github.com/mthevenin/test_connection_formation.git`
+https://github.com/mthevenin/test_connection_formation.git
 ```
 
 **SSH**:
